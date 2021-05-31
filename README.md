@@ -8,7 +8,8 @@ In order to run them, please follow the README guides located in the respective 
 
 The most updated version is likely to be found here: https://github.com/jtd020/Report.
 
-References
+**References**
+
 https://github.com/scottemmons/sgm
 
 https://github.com/etaoxing/sgm-sorb
