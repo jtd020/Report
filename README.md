@@ -6,8 +6,6 @@ Most of the modications and results are located in the sgm-python directory. The
 
 In order to run them, please follow the README guides located in the respective directories.
 
-The most updated version is likely to be found here: https://github.com/jtd020/Report.
-
 **References**
 
 https://github.com/scottemmons/sgm
