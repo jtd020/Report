@@ -1,0 +1,5 @@
+#!/bin/bash
+for i in {2..100}
+do
+	python3 run_custom.py --path ./configs/config_Rand.py --checkpt "./trials/RandMazeTrial${i}/" --train True --rand True --sparse True
+done
