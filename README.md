@@ -10,5 +10,7 @@ The most updated version is likely to be found here: https://github.com/jtd020/R
 
 References
 https://github.com/scottemmons/sgm
+
 https://github.com/etaoxing/sgm-sorb
+
 https://github.com/sbj42/maze-generator
